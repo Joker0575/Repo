@@ -1,2 +1,7 @@
 this is changed in remote branch test test
+<<<<<<< HEAD
 this is master branch
+=======
+
+this is changed in remote branch
+>>>>>>> test_branch
